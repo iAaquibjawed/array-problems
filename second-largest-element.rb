@@ -33,4 +33,7 @@ def second_smallest_largest(arr)
 end
 
 
+# it needed optimization with code login and maybe with complexity
+
+
 puts second_smallest_largest([1,2,3,14,5]) # Output: 4
